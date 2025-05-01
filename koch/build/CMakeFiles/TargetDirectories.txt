@@ -1,0 +1,14 @@
+/workspaces/llvm-project/koch/build/CMakeFiles/rebuild_cache.dir
+/workspaces/llvm-project/koch/build/CMakeFiles/edit_cache.dir
+/workspaces/llvm-project/koch/build/CMakeFiles/kochc.dir
+/workspaces/llvm-project/koch/build/CMakeFiles/mlir-doc.dir
+/workspaces/llvm-project/koch/build/CMakeFiles/omp_gen.dir
+/workspaces/llvm-project/koch/build/CMakeFiles/AArch64TargetParserTableGen.dir
+/workspaces/llvm-project/koch/build/CMakeFiles/acc_gen.dir
+/workspaces/llvm-project/koch/build/CMakeFiles/ARMTargetParserTableGen.dir
+/workspaces/llvm-project/koch/build/CMakeFiles/vt_gen.dir
+/workspaces/llvm-project/koch/build/CMakeFiles/mlir-headers.dir
+/workspaces/llvm-project/koch/build/CMakeFiles/intrinsics_gen.dir
+/workspaces/llvm-project/koch/build/CMakeFiles/mlir-tablegen-targets.dir
+/workspaces/llvm-project/koch/build/CMakeFiles/RISCVTargetParserTableGen.dir
+/workspaces/llvm-project/koch/build/CMakeFiles/mlir-generic-headers.dir
